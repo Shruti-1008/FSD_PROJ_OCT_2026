@@ -1,0 +1,8 @@
+{
+  "name": "Prescription for Healthcare Management",
+  "description": "A simple and clean healthcare prescription management system for doctors and patients.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
